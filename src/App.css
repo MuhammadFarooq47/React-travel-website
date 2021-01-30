@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('/images/img-2.jpg');
+  background-image: url('https://source.unsplash.com/1280x900/?code,travelling');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -35,10 +35,10 @@
 }
 
 .sign-up {
-  background-image: url('/images/img-8.jpg');
+  background-image: url('https://source.unsplash.com/1280x900/?code,login');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: rgb(214, 212, 212);
   font-size: 70px;
 }
