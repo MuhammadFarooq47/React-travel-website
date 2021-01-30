@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/React-travel-website/static/css/main.b94abdbc.chunk.css",
-    "main.js": "/React-travel-website/static/js/main.e64938d9.chunk.js",
-    "main.js.map": "/React-travel-website/static/js/main.e64938d9.chunk.js.map",
+    "main.css": "/React-travel-website/static/css/main.6c9e7a5e.chunk.css",
+    "main.js": "/React-travel-website/static/js/main.a6bbbd12.chunk.js",
+    "main.js.map": "/React-travel-website/static/js/main.a6bbbd12.chunk.js.map",
     "runtime-main.js": "/React-travel-website/static/js/runtime-main.44bd1acf.js",
     "runtime-main.js.map": "/React-travel-website/static/js/runtime-main.44bd1acf.js.map",
-    "static/js/2.fc294d0e.chunk.js": "/React-travel-website/static/js/2.fc294d0e.chunk.js",
-    "static/js/2.fc294d0e.chunk.js.map": "/React-travel-website/static/js/2.fc294d0e.chunk.js.map",
+    "static/js/2.cc0cd215.chunk.js": "/React-travel-website/static/js/2.cc0cd215.chunk.js",
+    "static/js/2.cc0cd215.chunk.js.map": "/React-travel-website/static/js/2.cc0cd215.chunk.js.map",
     "index.html": "/React-travel-website/index.html",
-    "precache-manifest.3873d1b43ba5b722bcec60b62f2e4fe1.js": "/React-travel-website/precache-manifest.3873d1b43ba5b722bcec60b62f2e4fe1.js",
+    "precache-manifest.d737cbe74bbb4209061068f55d732332.js": "/React-travel-website/precache-manifest.d737cbe74bbb4209061068f55d732332.js",
     "service-worker.js": "/React-travel-website/service-worker.js",
-    "static/css/main.b94abdbc.chunk.css.map": "/React-travel-website/static/css/main.b94abdbc.chunk.css.map",
-    "static/js/2.fc294d0e.chunk.js.LICENSE.txt": "/React-travel-website/static/js/2.fc294d0e.chunk.js.LICENSE.txt"
+    "static/css/main.6c9e7a5e.chunk.css.map": "/React-travel-website/static/css/main.6c9e7a5e.chunk.css.map",
+    "static/js/2.cc0cd215.chunk.js.LICENSE.txt": "/React-travel-website/static/js/2.cc0cd215.chunk.js.LICENSE.txt",
+    "static/media/video-1.mp4": "/React-travel-website/static/media/video-1.229f5279.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.44bd1acf.js",
-    "static/js/2.fc294d0e.chunk.js",
-    "static/css/main.b94abdbc.chunk.css",
-    "static/js/main.e64938d9.chunk.js"
+    "static/js/2.cc0cd215.chunk.js",
+    "static/css/main.6c9e7a5e.chunk.css",
+    "static/js/main.a6bbbd12.chunk.js"
   ]
 }
